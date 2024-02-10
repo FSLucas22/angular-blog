@@ -1,0 +1,10 @@
+.container__not-found, .not-found__title {
+  margin-top: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.not-found__link {
+  margin-top: 10px;
+}
